@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+#warning  bug ?
     // Do any additional setup after loading the view, typically from a nib.
 }
 
